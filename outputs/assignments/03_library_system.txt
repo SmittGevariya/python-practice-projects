@@ -1,0 +1,13 @@
+The Great Gatsby by F. Scott Fitzgerald is added to the library
+1984 by George Orwell is added to the library
+To Kill a Mockingbird by Harper Lee is added to the library
+books in the library:
+The Great Gatsby,by F. Scott Fitzgerald
+1984,by George Orwell
+To Kill a Mockingbird,by Harper Lee
+found 1984 by George Orwell
+book Harry Potter not found
+1984 is removed from the library
+books in the library:
+The Great Gatsby,by F. Scott Fitzgerald
+To Kill a Mockingbird,by Harper Lee
