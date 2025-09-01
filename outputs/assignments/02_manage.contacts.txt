@@ -1,0 +1,12 @@
+Name   : Smit
+Phones : 12345, 67890
+Email  : smit@example.com
+City   : Ahmedabad
+Zip    : 382345
+----------------------------------------
+Name   : yash
+Phones : 989898
+Email  : yash@example.com
+City   : Surat
+Zip    : 382350
+----------------------------------------

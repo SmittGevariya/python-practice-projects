@@ -1,0 +1,5 @@
+Enter first number: 6
+Enter operator (+, -, *, /): -
+Enter second number: 3
+Result: 6.0 - 3.0 = 3.0
+
